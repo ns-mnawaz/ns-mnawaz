@@ -4,6 +4,8 @@
     <img align="left" alt="Mir's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 
+</br>
+
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Golang
 
