@@ -4,9 +4,6 @@
     <img align="left" alt="Mir's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mir-nawaz.mir-nawaz)
-
-
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Golang
 
